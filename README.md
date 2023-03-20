@@ -13,5 +13,8 @@ In this lecture, we covered offline deployment mode (single entry and batch):
   - Containerize ML webapp using docker container on premise. 
   - Cotainerize and deploy model on the cloud (Microsoft Azure). 
 
+Predownloads and requirements in addition to Jupyter Notebook:
+- Docker 
+- Azure CLI and Azure subscription if you are interested to practice the cloud deployment part. 
 
 If you have any comments or feedback, please feel free to reach out on mmahyoub.ds@gmail.com.
