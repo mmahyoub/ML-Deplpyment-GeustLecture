@@ -19,4 +19,4 @@ Predownloads and requirements in addition to Jupyter Notebook:
   - Azure subscription https://azure.microsoft.com/en-us/get-started/azure-portal
   - Azure CLI  https://learn.microsoft.com/en-us/cli/azure/install-azure-cli 
 
-If you have any comments or feedback, please feel free to reach out on mmahyoub.ds@gmail.com.
+If you have any comments or feedback, please feel free to reach out on mmahyoub.ds@gmail.com
