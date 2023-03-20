@@ -14,7 +14,9 @@ In this lecture, we covered offline deployment mode (single entry and batch):
   - Cotainerize and deploy model on the cloud (Microsoft Azure). 
 
 Predownloads and requirements in addition to Jupyter Notebook:
-- Docker 
-- Azure CLI and Azure subscription if you are interested to practice the cloud deployment part. 
+- Docker https://www.docker.com/
+- If you are interested to practice the cloud deployment part.
+  - Azure subscription https://azure.microsoft.com/en-us/get-started/azure-portal
+  - Azure CLI  https://learn.microsoft.com/en-us/cli/azure/install-azure-cli 
 
 If you have any comments or feedback, please feel free to reach out on mmahyoub.ds@gmail.com.
