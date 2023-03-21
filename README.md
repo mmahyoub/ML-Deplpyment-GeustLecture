@@ -6,11 +6,11 @@ In this repository, you will find the Jupyter Notebook for codes explained in a 
 - Writing Dockerfiles and creating docker images.
 - Accessing Micrsofot Azure to build/register containers and create a web app.
 
-Note: Jupyter Notebook was not used to create the deployment codes (not recommended); it was used as a lab for developing modeling and deployment artificats. 
+Note: Jupyter Notebook was not used to create the deployment codes (not recommended); it was used as a lab for developing modeling and deployment artifacts. 
 
 In this lecture, we covered offline deployment mode (single entry and batch):
   - Deploy model using Flask wrapped with Swagger on premise.
-  - Containerize ML webapp using docker container on premise. 
+  - Containerize ML web app using docker container on premise. 
   - Cotainerize and deploy model on the cloud (Microsoft Azure). 
 
 Predownloads and requirements in addition to Jupyter Notebook:
