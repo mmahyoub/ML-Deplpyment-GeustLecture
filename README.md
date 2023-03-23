@@ -1,5 +1,6 @@
 # Machine Learning Deployment - Guest Lecture 
 Lecture video: https://youtu.be/EvzAAVN63Ok 
+
 In this repository, you will find the Jupyter Notebook for codes explained in a guest lecture at University of Alabama at Birmingham at  on 3/20/2023. The Jupyter Notebook was used as a lab for:
 - Accessing and processing data.
 - Creating and running training script.
